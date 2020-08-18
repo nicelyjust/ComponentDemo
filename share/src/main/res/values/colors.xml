@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="share_orange_main">#FE5000</color>
+    <color name="share_colorPrimaryDark">#FF5722</color>
+    <color name="share_colorAccent">#E8F5E9</color>
+</resources>

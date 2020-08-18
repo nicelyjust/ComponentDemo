@@ -1,0 +1,4 @@
+<resources>
+    <string name="login_app_name">login</string>
+    <string name="login_login">登录</string>
+</resources>
